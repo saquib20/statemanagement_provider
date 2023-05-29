@@ -1,6 +1,7 @@
 # statemanagement_provider
 
-A new Flutter project.
+So this state management provider project where you make changes in one screen the it will reflect the changes in the second screen and if you make chanages in the second screen then the changes will reflect in the first screen vice versa. So using state management provider package the user can make this kind of easy and it take less time to code as compared to the old traditional method. If you want to make a e-commerce website the it is very useful method as your product should reflect on the cart section as well as your wishlist page also..
+Hope you like this repo......
 
 ## Getting Started
 
